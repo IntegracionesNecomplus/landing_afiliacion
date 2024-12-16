@@ -1,0 +1,61 @@
+ /* Botón celeste */
+.pago_programado_niubuz {
+    background-color: #00aaff; /* Celeste */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pago_programado_niubuz:hover {
+    background-color: #0088cc; /* Celeste más oscuro al pasar el cursor */
+}
+
+/* Botón anaranjado */
+.spr_niubiz {
+    background-color: #ffa500; /* Anaranjado */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.spr_niubiz:hover {
+    background-color: #cc8400; /* Anaranjado más oscuro al pasar el cursor */
+}
+
+.manual_desarrolladores {
+    background-color: #ff0000; /* Rojo */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.manual_desarrolladores:hover {
+    background-color: #cc0000; /* Rojo más oscuro al pasar el cursor */
+}
+
+.repositorio_actualizado {
+    background-color: #07b842; /* Rojo */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.repositorio_actualizado:hover {
+    background-color: #046e27; /* Rojo más oscuro al pasar el cursor */
+}
